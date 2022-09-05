@@ -1,5 +1,5 @@
 # twinslash-sayollo
-Test task from TwinSlash / SayOllo
+Test task from TwinSlash / Sayollo
 
 - HR Contact: Inna Znak
 

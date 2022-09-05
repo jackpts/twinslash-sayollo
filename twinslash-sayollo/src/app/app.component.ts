@@ -7,8 +7,7 @@ import { BreakpointObserver, Breakpoints } from '@angular/cdk/layout';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent implements OnInit {
-  title = 'twinslash-sayollo';
-  isMobileView: boolean = false;
+  isMobileView: boolean = false;  // https://blog.angular-university.io/angular-responsive-design/
 
   constructor(private responsive: BreakpointObserver) {
   }
