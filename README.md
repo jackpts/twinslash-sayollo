@@ -1,6 +1,8 @@
 # twinslash-sayollo
 Test task from TwinSlash / SayOllo
 
+- HR Contact: Inna Znak
+
 ### Figma link
 - https://www.figma.com/file/PTPqrpH1gWKXlxJfvahhRR/Untitled?node-id=0%3A1
 
@@ -68,5 +70,11 @@ name - nmazuz
         - Write in the read me file some explanation about the code
    - Email: niso@sayollo.com
    - Please feel free to ask me any question you might have
-   
-   
+============================================================
+
+
+### Project start
+- npm i -g @angular/cli
+- ng new twinslash-sayollo
+- ng serve
+--> go to: http://localhost:4200/
